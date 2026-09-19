@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> price=$1000 </h>
+   <h1> CICD_DONE </h>
 
   
 </form>
